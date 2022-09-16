@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# prework-study-guide-
+# Prework Study Guide
 A study guide for course pre-work.
 # Prework Study Guide Webpage
 
